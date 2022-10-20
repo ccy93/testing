@@ -1,0 +1,244 @@
+[
+    {
+        "location": "RM",
+        "articleCode": "0004-28-038-G-M1-50",
+        "prepRoute": "R",
+        "binCode": "Shelf1",
+        "effStartDate": "2022-01-01 00:00:00",
+        "effEndDate": null,
+        "approvalStatus": "Approved",
+        "status": "A"
+    },
+    {
+        "location": "OP",
+        "articleCode": "0004-28-038-G-M1-50",
+        "prepRoute": "R",
+        "binCode": "Shelf1",
+        "effStartDate": "2022-01-01 00:00:00",
+        "effEndDate": null,
+        "approvalStatus": "Approved",
+        "status": "A"
+    },
+    {
+        "location": "S5",
+        "articleCode": "0004-28-038-G-M1-50",
+        "prepRoute": "R",
+        "binCode": "Shelf1",
+        "effStartDate": "2022-01-01 00:00:00",
+        "effEndDate": null,
+        "approvalStatus": "Approved",
+        "status": "A"
+    },
+    {
+        "location": "RM",
+        "articleCode": "0004-28-038-G-M2-30",
+        "prepRoute": "P",
+        "binCode": "Shelf1",
+        "effStartDate": "2022-01-01 00:00:00",
+        "effEndDate": null,
+        "approvalStatus": "Approved",
+        "status": "A"
+    },
+    {
+        "location": "OP",
+        "articleCode": "0004-28-038-G-M2-30",
+        "prepRoute": "P",
+        "binCode": "Shelf1",
+        "effStartDate": "2022-01-01 00:00:00",
+        "effEndDate": null,
+        "approvalStatus": "Approved",
+        "status": "A"
+    },
+    {
+        "location": "S5",
+        "articleCode": "0004-28-038-G-M2-30",
+        "prepRoute": "P",
+        "binCode": "Shelf1",
+        "effStartDate": "2022-01-01 00:00:00",
+        "effEndDate": null,
+        "approvalStatus": "Approved",
+        "status": "A"
+    },
+    {
+        "location": "RM",
+        "articleCode": "0004-28-038-G-M1-25",
+        "prepRoute": "P",
+        "binCode": "Shelf1",
+        "effStartDate": "2022-01-01 00:00:00",
+        "effEndDate": null,
+        "approvalStatus": "Approved",
+        "status": "A"
+    },
+    {
+        "location": "OP",
+        "articleCode": "0004-28-038-G-M1-25",
+        "prepRoute": "P",
+        "binCode": "Shelf1",
+        "effStartDate": "2022-01-01 00:00:00",
+        "effEndDate": null,
+        "approvalStatus": "Approved",
+        "status": "A"
+    },
+    {
+        "location": "S5",
+        "articleCode": "0004-28-038-G-M1-25",
+        "prepRoute": "P",
+        "binCode": "Shelf1",
+        "effStartDate": "2022-01-01 00:00:00",
+        "effEndDate": null,
+        "approvalStatus": "Approved",
+        "status": "A"
+    },
+    {
+        "location": "RM",
+        "articleCode": "0004-28-038-G-M2-20",
+        "prepRoute": "P",
+        "binCode": "Shelf1",
+        "effStartDate": "2022-01-01 00:00:00",
+        "effEndDate": null,
+        "approvalStatus": "Approved",
+        "status": "A"
+    },
+    {
+        "location": "OP",
+        "articleCode": "0004-28-038-G-M2-20",
+        "prepRoute": "P",
+        "binCode": "Shelf1",
+        "effStartDate": "2022-01-01 00:00:00",
+        "effEndDate": null,
+        "approvalStatus": "Approved",
+        "status": "A"
+    },
+    {
+        "location": "S5",
+        "articleCode": "0004-28-038-G-M2-20",
+        "prepRoute": "P",
+        "binCode": "Shelf1",
+        "effStartDate": "2022-01-01 00:00:00",
+        "effEndDate": null,
+        "approvalStatus": "Approved",
+        "status": "A"
+    },
+    {
+        "location": "RM",
+        "articleCode": "0004-28-038-G-M1-1",
+        "prepRoute": "M",
+        "binCode": "Shelf1",
+        "effStartDate": "2022-01-01 00:00:00",
+        "effEndDate": null,
+        "approvalStatus": "Approved",
+        "status": "A"
+    },
+    {
+        "location": "OP",
+        "articleCode": "0004-28-038-G-M1-1",
+        "prepRoute": "M",
+        "binCode": "Shelf1",
+        "effStartDate": "2022-01-01 00:00:00",
+        "effEndDate": null,
+        "approvalStatus": "Approved",
+        "status": "A"
+    },
+    {
+        "location": "S5",
+        "articleCode": "0004-28-038-G-M1-1",
+        "prepRoute": "M",
+        "binCode": "Shelf1",
+        "effStartDate": "2022-01-01 00:00:00",
+        "effEndDate": null,
+        "approvalStatus": "Approved",
+        "status": "A"
+    },
+    {
+        "location": "RM",
+        "articleCode": "0004-28-038-G-M2-1",
+        "prepRoute": "M",
+        "binCode": "Shelf1",
+        "effStartDate": "2022-01-01 00:00:00",
+        "effEndDate": null,
+        "approvalStatus": "Approved",
+        "status": "A"
+    },
+    {
+        "location": "OP",
+        "articleCode": "0004-28-038-G-M2-1",
+        "prepRoute": "M",
+        "binCode": "Shelf1",
+        "effStartDate": "2022-01-01 00:00:00",
+        "effEndDate": null,
+        "approvalStatus": "Approved",
+        "status": "A"
+    },
+    {
+        "location": "S5",
+        "articleCode": "0004-28-038-G-M2-1",
+        "prepRoute": "M",
+        "binCode": "Shelf1",
+        "effStartDate": "2022-01-01 00:00:00",
+        "effEndDate": null,
+        "approvalStatus": "Approved",
+        "status": "A"
+    }
+
+    ,
+    {
+        "location": "RM",
+        "articleCode": "0004-28-038-G-10",
+        "prepRoute": "M",
+        "binCode": "Shelf1",
+        "effStartDate": "2022-01-01 00:00:00",
+        "effEndDate": null,
+        "approvalStatus": "Approved",
+        "status": "A"
+    },
+    {
+        "location": "OP",
+        "articleCode": "0004-28-038-G-10",
+        "prepRoute": "M",
+        "binCode": "Shelf1",
+        "effStartDate": "2022-01-01 00:00:00",
+        "effEndDate": null,
+        "approvalStatus": "Approved",
+        "status": "A"
+    },
+    {
+        "location": "S5",
+        "articleCode": "0004-28-038-G-10",
+        "prepRoute": "M",
+        "binCode": "Shelf1",
+        "effStartDate": "2022-01-01 00:00:00",
+        "effEndDate": null,
+        "approvalStatus": "Approved",
+        "status": "A"
+    },
+    {
+        "location": "RM",
+        "articleCode": "0004-28-038-G-1",
+        "prepRoute": "M",
+        "binCode": "Shelf1",
+        "effStartDate": "2022-01-01 00:00:00",
+        "effEndDate": null,
+        "approvalStatus": "Approved",
+        "status": "A"
+    },
+    {
+        "location": "OP",
+        "articleCode": "0004-28-038-G-1",
+        "prepRoute": "M",
+        "binCode": "Shelf1",
+        "effStartDate": "2022-01-01 00:00:00",
+        "effEndDate": null,
+        "approvalStatus": "Approved",
+        "status": "A"
+    },
+    {
+        "location": "S5",
+        "articleCode": "0004-28-038-G-1",
+        "prepRoute": "M",
+        "binCode": "Shelf1",
+        "effStartDate": "2022-01-01 00:00:00",
+        "effEndDate": null,
+        "approvalStatus": "Approved",
+        "status": "A"
+    }
+]
