@@ -184,7 +184,7 @@
     {
         "location": "RM",
         "articleCode": "0004-28-038-G-10",
-        "prepRoute": "M",
+        "prepRoute": "P",
         "binCode": "Shelf1",
         "effStartDate": "2022-01-01 00:00:00",
         "effEndDate": null,
@@ -194,7 +194,7 @@
     {
         "location": "OP",
         "articleCode": "0004-28-038-G-10",
-        "prepRoute": "M",
+        "prepRoute": "R",
         "binCode": "Shelf1",
         "effStartDate": "2022-01-01 00:00:00",
         "effEndDate": null,
