@@ -2,7 +2,7 @@
     {
         "tenant": "NUH",
         "manufacturer": "M1",
-        "articleCode": "0004-28-038-G",
+        "articleCode": "0004-28-038-G-M1-50",
         "articleName": "Paracetamol 500mg Tab 50's",
         "packsize": "50",
         "packsizeUom": "TAB",
@@ -15,7 +15,7 @@
     {
         "tenant": "NUH",
         "manufacturer": "M1",
-        "articleCode": "0004-28-038-G",
+        "articleCode": "0004-28-038-G-M1-30",
         "articleName": "Paracetamol 500mg Tab 30's",
         "packsize": "30",
         "packsizeUom": "TAB",
@@ -28,7 +28,7 @@
     {
         "tenant": "NUH",
         "manufacturer": "M1",
-        "articleCode": "0004-28-038-G",
+        "articleCode": "0004-28-038-G-M1-20",
         "articleName": "Paracetamol 500mg Tab 20's",
         "packsize": "20",
         "packsizeUom": "TAB",
@@ -41,7 +41,7 @@
     {
         "tenant": "NUH",
         "manufacturer": "M1",
-        "articleCode": "0004-28-038-G",
+        "articleCode": "0004-28-038-G-M1-10",
         "articleName": "Paracetamol 500mg Tab 10's",
         "packsize": "10",
         "packsizeUom": "TAB",
@@ -54,8 +54,8 @@
     {
         "tenant": "NUH",
         "manufacturer": "M1",
-        "articleCode": "0004-28-038-G",
-        "articleName": "Paracetamol 500mg Tab 0's",
+        "articleCode": "0004-28-038-G-M1-1",
+        "articleName": "Paracetamol 500mg Tab 1's",
         "packsize": "1",
         "packsizeUom": "TAB",
         "packageUom": "TAB",
