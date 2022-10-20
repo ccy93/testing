@@ -1,0 +1,67 @@
+[
+    {
+        "tenant": "NUH",
+        "manufacturer": "M1",
+        "articleCode": "0004-28-038-G",
+        "articleName": "Paracetamol 500mg Tab 50's",
+        "packsize": "50",
+        "packsizeUom": "TAB",
+        "packageUom": "Box",
+        "effStartDate": "2022-01-01 00:00:00",
+        "effEndDate": null,
+        "approvalStatus": "Approved",
+        "status": "A"
+    },
+    {
+        "tenant": "NUH",
+        "manufacturer": "M1",
+        "articleCode": "0004-28-038-G",
+        "articleName": "Paracetamol 500mg Tab 30's",
+        "packsize": "30",
+        "packsizeUom": "TAB",
+        "packageUom": "Box",
+        "effStartDate": "2022-01-01 00:00:00",
+        "effEndDate": null,
+        "approvalStatus": "Approved",
+        "status": "A"
+    },
+    {
+        "tenant": "NUH",
+        "manufacturer": "M1",
+        "articleCode": "0004-28-038-G",
+        "articleName": "Paracetamol 500mg Tab 20's",
+        "packsize": "20",
+        "packsizeUom": "TAB",
+        "packageUom": "Box",
+        "effStartDate": "2022-01-01 00:00:00",
+        "effEndDate": null,
+        "approvalStatus": "Approved",
+        "status": "A"
+    },
+    {
+        "tenant": "NUH",
+        "manufacturer": "M1",
+        "articleCode": "0004-28-038-G",
+        "articleName": "Paracetamol 500mg Tab 10's",
+        "packsize": "10",
+        "packsizeUom": "TAB",
+        "packageUom": "Strip",
+        "effStartDate": "2022-01-01 00:00:00",
+        "effEndDate": null,
+        "approvalStatus": "Approved",
+        "status": "A"
+    },
+    {
+        "tenant": "NUH",
+        "manufacturer": "M1",
+        "articleCode": "0004-28-038-G",
+        "articleName": "Paracetamol 500mg Tab 0's",
+        "packsize": "1",
+        "packsizeUom": "TAB",
+        "packageUom": "TAB",
+        "effStartDate": "2022-01-01 00:00:00",
+        "effEndDate": null,
+        "approvalStatus": "Approved",
+        "status": "A"
+    }
+]
