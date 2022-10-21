@@ -1,6 +1,6 @@
 [
     {
-        "location": "RM",
+        "location": "Retail Pharmacy",
         "articleCode": "0004-28-038-G-M1-50",
         "prepRoute": "R",
         "binCode": "Shelf1",
@@ -10,7 +10,7 @@
         "status": "A"
     },
     {
-        "location": "OP",
+        "location": "Outpatient Satellite Pharmacy 1",
         "articleCode": "0004-28-038-G-M1-50",
         "prepRoute": "R",
         "binCode": "Shelf1",
@@ -20,7 +20,7 @@
         "status": "A"
     },
     {
-        "location": "S5",
+        "location": "Satellite Pharmacy 5",
         "articleCode": "0004-28-038-G-M1-50",
         "prepRoute": "R",
         "binCode": "Shelf1",
@@ -30,7 +30,7 @@
         "status": "A"
     },
     {
-        "location": "RM",
+        "location": "Retail Pharmacy",
         "articleCode": "0004-28-038-G-M2-30",
         "prepRoute": "R",
         "binCode": "Shelf1",
@@ -40,7 +40,7 @@
         "status": "A"
     },
     {
-        "location": "OP",
+        "location": "Outpatient Satellite Pharmacy 1",
         "articleCode": "0004-28-038-G-M2-30",
         "prepRoute": "R",
         "binCode": "Shelf1",
@@ -50,7 +50,7 @@
         "status": "A"
     },
     {
-        "location": "S5",
+        "location": "Satellite Pharmacy 5",
         "articleCode": "0004-28-038-G-M2-30",
         "prepRoute": "R",
         "binCode": "Shelf1",
@@ -60,7 +60,7 @@
         "status": "A"
     },
     {
-        "location": "RM",
+        "location": "Retail Pharmacy",
         "articleCode": "0004-28-038-G-M1-25",
         "prepRoute": "P",
         "binCode": "Shelf1",
@@ -70,7 +70,7 @@
         "status": "A"
     },
     {
-        "location": "OP",
+        "location": "Outpatient Satellite Pharmacy 1",
         "articleCode": "0004-28-038-G-M1-25",
         "prepRoute": "P",
         "binCode": "Shelf1",
@@ -80,7 +80,7 @@
         "status": "A"
     },
     {
-        "location": "S5",
+        "location": "Satellite Pharmacy 5",
         "articleCode": "0004-28-038-G-M1-25",
         "prepRoute": "P",
         "binCode": "Shelf1",
@@ -90,7 +90,7 @@
         "status": "A"
     },
     {
-        "location": "RM",
+        "location": "Retail Pharmacy",
         "articleCode": "0004-28-038-G-M2-20",
         "prepRoute": "P",
         "binCode": "Shelf1",
@@ -100,7 +100,7 @@
         "status": "A"
     },
     {
-        "location": "OP",
+        "location": "Outpatient Satellite Pharmacy 1",
         "articleCode": "0004-28-038-G-M2-20",
         "prepRoute": "P",
         "binCode": "Shelf1",
@@ -110,7 +110,7 @@
         "status": "A"
     },
     {
-        "location": "S5",
+        "location": "Satellite Pharmacy 5",
         "articleCode": "0004-28-038-G-M2-20",
         "prepRoute": "P",
         "binCode": "Shelf1",
@@ -120,7 +120,7 @@
         "status": "A"
     },
     {
-        "location": "RM",
+        "location": "Retail Pharmacy",
         "articleCode": "0004-28-038-G-M1-1",
         "prepRoute": "M",
         "binCode": "Shelf1",
@@ -130,7 +130,7 @@
         "status": "A"
     },
     {
-        "location": "OP",
+        "location": "Outpatient Satellite Pharmacy 1",
         "articleCode": "0004-28-038-G-M1-1",
         "prepRoute": "M",
         "binCode": "Shelf1",
@@ -140,7 +140,7 @@
         "status": "A"
     },
     {
-        "location": "S5",
+        "location": "Satellite Pharmacy 5",
         "articleCode": "0004-28-038-G-M1-1",
         "prepRoute": "M",
         "binCode": "Shelf1",
@@ -150,7 +150,7 @@
         "status": "A"
     },
     {
-        "location": "RM",
+        "location": "Retail Pharmacy",
         "articleCode": "0004-28-038-G-M2-1",
         "prepRoute": "M",
         "binCode": "Shelf1",
@@ -160,7 +160,7 @@
         "status": "A"
     },
     {
-        "location": "OP",
+        "location": "Outpatient Satellite Pharmacy 1",
         "articleCode": "0004-28-038-G-M2-1",
         "prepRoute": "M",
         "binCode": "Shelf1",
@@ -170,7 +170,7 @@
         "status": "A"
     },
     {
-        "location": "S5",
+        "location": "Satellite Pharmacy 5",
         "articleCode": "0004-28-038-G-M2-1",
         "prepRoute": "M",
         "binCode": "Shelf1",
@@ -182,7 +182,7 @@
 
     ,
     {
-        "location": "RM",
+        "location": "Retail Pharmacy",
         "articleCode": "0004-28-038-G-10",
         "prepRoute": "P",
         "binCode": "Shelf1",
@@ -192,7 +192,7 @@
         "status": "A"
     },
     {
-        "location": "OP",
+        "location": "Outpatient Satellite Pharmacy 1",
         "articleCode": "0004-28-038-G-10",
         "prepRoute": "R",
         "binCode": "Shelf1",
@@ -202,7 +202,7 @@
         "status": "A"
     },
     {
-        "location": "S5",
+        "location": "Satellite Pharmacy 5",
         "articleCode": "0004-28-038-G-10",
         "prepRoute": "M",
         "binCode": "Shelf1",
@@ -212,7 +212,7 @@
         "status": "A"
     },
     {
-        "location": "RM",
+        "location": "Retail Pharmacy",
         "articleCode": "0004-28-038-G-1",
         "prepRoute": "M",
         "binCode": "Shelf1",
@@ -222,7 +222,7 @@
         "status": "A"
     },
     {
-        "location": "OP",
+        "location": "Outpatient Satellite Pharmacy 1",
         "articleCode": "0004-28-038-G-1",
         "prepRoute": "M",
         "binCode": "Shelf1",
@@ -232,7 +232,7 @@
         "status": "A"
     },
     {
-        "location": "S5",
+        "location": "Satellite Pharmacy 5",
         "articleCode": "0004-28-038-G-1",
         "prepRoute": "M",
         "binCode": "Shelf1",
