@@ -130,5 +130,27 @@
         "effEndDate": null,
         "approvalStatus": "Approved",
         "status": "A"
+    },
+    {
+        "tenant": "System",
+        "location": nu;;,
+        "settingTypeCode": null,
+        "manufacturer": "M2",
+        "dispensePacksizeUom": "TAB",
+        "maxQty": 1000,
+        "maxQtyUom": "TAB",
+        "labelPacksizeValue": 1,
+        "labelPacksizeUom": "TAB",
+        "useWithin": null,
+        "useWithinDurationCode": null,
+        "useBy": null,
+        "useByDurationCode": null,
+        "roundingRule": null,
+        "sortSeq": 1,
+        "remarks": null,
+        "effStartDate": "2022-01-01 00:00:00",
+        "effEndDate": null,
+        "approvalStatus": "Approved",
+        "status": "A"
     }
 ]
